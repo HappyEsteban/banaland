@@ -1,0 +1,231 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-11-18 22:30:02 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:02 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:02 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-18 22:30:35 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-11-18 22:30:02 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
