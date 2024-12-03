@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_stairs": {
     "criteria": {
       "has_exposed_cut_copper": "2024-12-02 21:51:23 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-20 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-11-19 02:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -140,6 +158,12 @@
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2024-11-20 15:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -224,6 +248,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-11-20 15:30:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -329,6 +359,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-11-19 01:27:39 +0000"
@@ -359,6 +395,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_picket_gate": {
     "criteria": {
       "has_gate": "2024-11-19 01:27:39 +0000"
@@ -380,6 +422,12 @@
   "minecolonies:recipes/decorations/doublegrass": {
     "criteria": {
       "has_grass": "2024-11-19 00:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
     },
     "done": true
   },
@@ -422,6 +470,12 @@
   "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
       "has_chest": "2024-11-19 02:10:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -503,6 +557,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-02 22:03:42 +0000"
@@ -569,6 +629,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-11-19 00:16:50 +0000"
@@ -631,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-11-20 14:14:52 +0000"
@@ -649,9 +721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-03 01:15:44 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
     "criteria": {
       "has_netherite_boots": "2024-11-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -682,6 +766,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-20 14:14:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -835,6 +925,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2024-11-19 02:16:25 +0000"
@@ -856,6 +952,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-11-20 14:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -937,6 +1039,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_chiseled_quartz_block": "2024-12-02 13:37:25 +0000"
@@ -967,6 +1075,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-11-19 01:09:47 +0000"
@@ -976,6 +1090,18 @@
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
       "has_log": "2024-11-19 02:21:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -1057,9 +1183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-03 01:15:44 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-18 22:46:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
     },
     "done": true
   },
@@ -1157,6 +1295,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_pickaxe": "2024-11-18 22:46:10 +0000"
@@ -1208,6 +1352,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-02 13:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
     },
     "done": true
   },
@@ -1298,6 +1448,12 @@
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-11-19 02:10:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -1433,6 +1589,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-11-19 01:01:54 +0000"
@@ -1508,6 +1670,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-11-20 14:14:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -1643,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockstash": {
     "criteria": {
       "has_items": "2024-11-19 02:10:14 +0000"
@@ -1658,6 +1832,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-18 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -1721,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-03 01:21:50 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-11-19 02:10:14 +0000"
@@ -1736,6 +1922,12 @@
   "cfm:recipes/cfm/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2024-11-19 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -1871,6 +2063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-11-20 15:30:07 +0000"
@@ -1937,6 +2135,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-18 23:37:38 +0000"
@@ -1967,6 +2171,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-11-19 02:21:02 +0000"
@@ -1979,9 +2189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-02 22:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 01:21:50 +0000"
     },
     "done": true
   },
@@ -1994,6 +2216,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-11-18 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -2036,6 +2264,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-18 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
     },
     "done": true
   },
@@ -2327,6 +2561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-11-20 14:14:52 +0000"
@@ -2387,6 +2627,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-19 02:10:14 +0000"
@@ -2441,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-03 01:20:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-11-20 14:37:05 +0000"
@@ -2474,6 +2726,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-20 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -2621,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-03 01:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-11-19 02:21:02 +0000"
@@ -2675,6 +2939,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-18 23:55:12 +0000"
@@ -2684,6 +2954,18 @@
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-19 02:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 01:21:50 +0000"
     },
     "done": true
   },
@@ -2750,6 +3032,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-20 14:14:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },
@@ -2909,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-03 01:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-11-18 23:55:12 +0000"
@@ -2924,6 +3218,12 @@
   "cfm:recipes/cfm/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2024-11-19 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:21:21 +0000"
     },
     "done": true
   },

@@ -1,1033 +1,2338 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733187971355 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733245115138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187974414 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245118201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187977510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245121262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187980625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245124326 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187983708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245127414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187986797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245130476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187989888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245133541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187992979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245136633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187996054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245139742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733187999139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245142802 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188002210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245145885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188005270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245148946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188008333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245152115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188011398 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245155196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188014475 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245158355 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188017562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245161432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188020639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245164507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188023706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245167589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188026807 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245170671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188029904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245173822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188033256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245176925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188036329 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245179985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188039403 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245183069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188042493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245186146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188045574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245189217 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188048652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245192298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188051735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245195377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188054845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245198492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188057917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245201619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188060983 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245204763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188064066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245207831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188067153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245210949 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188070231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245214123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188073298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245217220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188076362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245220287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188079469 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245223366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188082554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245226556 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188085648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245229647 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188088713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245232719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188091806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245235798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188094881 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245238889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188098116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245241968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188101206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245245042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188104285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245248120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188107440 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245251185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188110523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245254250 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188113612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245257364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188116698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245260441 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188120110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245263715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188123186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245266956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188126264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245270040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188129337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245273839 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188132434 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245277323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188135520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245280403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188138622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245283502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188141700 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245286840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188144782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245289915 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188147855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245292992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188150941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245296140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188154062 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245299811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188157139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245302878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188160274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245306017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188163338 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245309109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188166438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245312479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188169542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245315822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188172625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245318898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188175718 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245321995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188178790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245325067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188181961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245328129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188185023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245331213 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188188110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245334275 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188191171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245337348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188194242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245340405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188197319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245343524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188200385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245346588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188203446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245349726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188206531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245352898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188209601 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245356060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188212671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245359139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188215749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245362203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188218823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245365280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188221905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245368575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188224990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245371676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188228054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245374743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188231149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245377807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188234222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245380975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188237307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245384042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188240382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245387123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188243454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245390192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188246532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245393268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188249598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245396371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188252805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245399507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188255877 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245402567 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188258953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245405661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188262034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245408757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188265100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245411823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188268208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245414947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188271273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245418050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188274354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245421282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188277415 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245424349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188280482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245427414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188283550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245430488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188286614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245433679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188289689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245436860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188292763 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245440359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188295874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245443429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188298943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245446488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188302004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245449547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188305087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245452605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188308168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245455663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188311230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245458757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188314316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245461837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188317385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245464899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188320458 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245467975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188323530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245471053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188326681 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245474120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188329767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245477315 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188332849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245480382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188335916 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245483447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188338979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245486521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188342045 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245489583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188345260 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245492645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188348326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245495716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188351438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245498774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188354521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245501859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188357606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245504926 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188360704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245508007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188363791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245511066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188366868 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245514128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188369932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245517240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188372998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245520316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188388107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245523386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188391184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245526463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188394245 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245529577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188397334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245532661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188400399 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245535777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188403466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245538939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188418657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245542010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188421733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245545075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188424808 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245548154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188427876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245551237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188430954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245554294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188434032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245557364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188437146 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245560425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188452265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245563555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188455383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245566644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188458468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245569707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188461545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245572785 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188464638 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245575861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188479805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245578938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188482913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245582007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188485987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245585109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188489061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245588181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188492153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245591247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188495217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245594328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188510330 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245597432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188513422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245600505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188516499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245603566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188519590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245606647 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188522660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245609726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188525755 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245612800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188540886 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245615863 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188543947 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245618939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188547019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245622020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188550177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245625096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1733188565312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245628179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188568391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245631259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188571471 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245634366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1733188574566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733245637435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245640522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245643597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245646668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245649744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245652810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245655890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245658964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245662032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245665117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245668190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245671272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245674350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245677450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245680535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245683612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245686704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245689770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245692854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245695957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245699040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245702125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245705189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245708268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245711339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245714412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245717479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245720601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245723717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245726797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245729934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245733031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245736145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245739234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245742302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245745364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245748429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245751515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245754741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245757810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245760935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245764002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245767076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245770155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245773224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245776300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245779378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245782440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245785537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245788617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245791700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245794772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245797840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245800905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245803987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245807062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245810131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245813201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245816276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245819340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245822416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245825512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245828576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245831644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245834710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245837782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245840861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245843953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245847025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245850090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245853174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245856252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245859329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245862390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245865465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245868533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245871592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245874654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245877728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245880942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245884001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245887077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245890545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245893611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245896671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245899739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245902819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245905891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245908953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245912057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245915124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245918192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245921274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245924343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245927437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245930521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245933580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245936646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245939722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245942786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245945863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245948948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245952045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245955135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245958197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245961257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245964320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245967390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245970462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245973550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245976620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245979689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245982759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245985871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245988952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245992032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245995112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733245998181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246001256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246004325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246007423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246010486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246013556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246016630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246019690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246022764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246025832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246028897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246031960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246035036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246038114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246041206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246044286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246047353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246050416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246053502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246056586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246059648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246062720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246065800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246068864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246071926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246075034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246078093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246081168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246084246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246087309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246090388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246093455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246096590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246099655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246102724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246105807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246108900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246111984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246115049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246118123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246121189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246124251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246127339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246130404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246133473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246136558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246139622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246142705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246145767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246148830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246151891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246155067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246158125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246161180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246164280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246167356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246170464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246173523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246176583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246179766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246182824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246185892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246188963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246192037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246195140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246198228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246201319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246204379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246207444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246210517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246213586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246216687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246219761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246222840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246225905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246228965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246232035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246235093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246238155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246241237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246244313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246247388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246250457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246253536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246256609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246259674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246262733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246265797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246268859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246271915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246274979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246278261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246281397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246284504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246287594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246290667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246293769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246296832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246299944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246303017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246306080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246309156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246312336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246315410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+canada-showing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+love-fires.gl.at.ply.gg:1700 => 127.0.0.1:1700 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733246318487 tunnel running, 2 tunnels registered
 
 
 TUNNELS

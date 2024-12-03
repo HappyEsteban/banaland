@@ -11,11 +11,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
@@ -68,6 +80,12 @@
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2024-12-03 01:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-03 01:18:21 +0000"
     },
     "done": true
   },
@@ -125,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-03 01:11:37 +0000"
@@ -140,6 +164,12 @@
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-03 01:11:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
     },
     "done": true
   },
@@ -265,7 +295,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2024-12-03 01:13:12 +0000"
+      "beef": "2024-12-03 01:13:12 +0000",
+      "bread": "2024-12-03 01:18:44 +0000"
     },
     "done": false
   },
@@ -329,6 +360,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-03 01:11:37 +0000"
@@ -350,6 +387,12 @@
   "cfm:recipes/cfm/acacia_crate": {
     "criteria": {
       "has_log": "2024-12-03 01:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
     },
     "done": true
   },
@@ -449,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-03 01:18:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_desk": {
     "criteria": {
       "has_planks": "2024-12-03 01:09:00 +0000"
@@ -545,6 +594,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
@@ -605,9 +660,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-03 01:19:36 +0000",
+      "minecraft:zombie": "2024-12-03 01:19:46 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
     },
     "done": true
   },
@@ -620,6 +694,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-03 01:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-03 01:20:24 +0000"
     },
     "done": true
   },
@@ -676,6 +756,12 @@
       "has_porkchop": "2024-12-03 01:09:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
@@ -737,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 01:22:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
@@ -784,6 +876,12 @@
       "has_bucket": "2024-12-03 01:11:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/acacia_upgraded_fence": {
     "criteria": {
@@ -983,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-03 01:20:24 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-03 00:53:10 +0000"
@@ -1019,6 +1123,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-03 01:19:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
@@ -1054,6 +1170,12 @@
       "has_cobblestone": "2024-12-03 01:11:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
@@ -1170,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 01:22:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
@@ -1181,6 +1309,12 @@
       "has_cobblestone": "2024-12-03 01:11:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
@@ -1206,6 +1340,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-03 01:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-03 01:11:22 +0000"
@@ -1224,11 +1364,23 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-03 01:11:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 01:23:53 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
@@ -1347,6 +1499,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-03 01:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 01:22:05 +0000"
     },
     "done": true
   },

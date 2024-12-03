@@ -1,543 +1,429 @@
-[03Dec2024 01:06:10.826] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[03Dec2024 01:06:10.834] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
-[03Dec2024 01:06:11.044] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/banaland/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[03Dec2024 01:06:11.190] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 108 client sides mods with 0 skipped entries ...
-[03Dec2024 01:06:11.244] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /workspaces/banaland/servidor_minecraft/config/adaptive_performance_tweaks/client_side_mods.list
-[03Dec2024 01:06:11.245] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 108 client sides mods with 3 skipped entries ...
-[03Dec2024 01:06:11.268] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /workspaces/banaland/servidor_minecraft and mods dir /workspaces/banaland/servidor_minecraft/mods for target SERVER
-[03Dec2024 01:06:11.269] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
-[03Dec2024 01:06:11.278] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~84 mods in /workspaces/banaland/servidor_minecraft/mods for duplication with file extension .jar ...
-[03Dec2024 01:06:11.823] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
-[03Dec2024 01:06:12.533] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[03Dec2024 01:06:12.536] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03Dec2024 01:06:12.540] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03Dec2024 01:06:12.542] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[03Dec2024 01:06:12.963] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[03Dec2024 01:06:19.419] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
-[03Dec2024 01:06:19.474] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Dec2024 01:06:20.019] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[03Dec2024 01:06:20.022] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[03Dec2024 01:06:20.212] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
-[03Dec2024 01:06:20.214] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[03Dec2024 01:06:20.243] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[03Dec2024 01:06:20.540] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 112 options available, 0 override(s) found
-[03Dec2024 01:06:20.592] [main/WARN] [mixin/]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Dec2024 01:06:20.813] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Dec2024 01:06:22.708] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER
-[03Dec2024 01:06:22.710] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/model/ModelBakery (java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER)
-[03Dec2024 01:06:22.710] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.model.ModelBakery was not found lightspeed.mixins.json:model.ModelBakeryMixin
-[03Dec2024 01:06:23.257] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
-[03Dec2024 01:06:23.260] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [tagKeyLeak, entityMemoriesLeak, biomeTemperatureLeak]
-[03Dec2024 01:06:23.546] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03Dec2024 01:06:23.549] [main/WARN] [MixinExtras|Service/]: Found problematic active MixinExtras instance at ca.fxco.memoryleakfix.mixinextras (version 0.2.0-beta.6)
-[03Dec2024 01:06:23.550] [main/WARN] [MixinExtras|Service/]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
-[03Dec2024 01:06:25.067] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.21 s after launch)
-[03Dec2024 01:06:30.347] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5271 milliseconds
-[03Dec2024 01:06:34.776] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
-[03Dec2024 01:06:34.784] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected on an developer environment or for testing but not on a production environment!
-[03Dec2024 01:06:34.786] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
-[03Dec2024 01:06:34.790] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
-[03Dec2024 01:06:34.817] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
-[03Dec2024 01:06:36.075] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[03Dec2024 01:06:36.251] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[03Dec2024 01:06:36.251] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[03Dec2024 01:06:36.303] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[03Dec2024 01:06:36.304] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[03Dec2024 01:06:36.848] [modloading-worker-0/WARN] [com.memorysettings.MemorysettingsMod/]: You have less memory allocated(1984mb) than recommended for this pack, the minimum is: 2500mb.
+[03Dec2024 16:58:34.601] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[03Dec2024 16:58:34.606] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
+[03Dec2024 16:58:35.102] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/banaland/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[03Dec2024 16:58:35.264] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 108 client sides mods with 0 skipped entries ...
+[03Dec2024 16:58:35.319] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /workspaces/banaland/servidor_minecraft/config/adaptive_performance_tweaks/client_side_mods.list
+[03Dec2024 16:58:35.322] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 108 client sides mods with 3 skipped entries ...
+[03Dec2024 16:58:35.356] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /workspaces/banaland/servidor_minecraft and mods dir /workspaces/banaland/servidor_minecraft/mods for target SERVER
+[03Dec2024 16:58:35.358] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
+[03Dec2024 16:58:35.362] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~84 mods in /workspaces/banaland/servidor_minecraft/mods for duplication with file extension .jar ...
+[03Dec2024 16:58:35.762] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
+[03Dec2024 16:58:36.482] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[03Dec2024 16:58:36.486] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Dec2024 16:58:36.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Dec2024 16:58:36.503] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/banaland/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Dec2024 16:58:36.967] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[03Dec2024 16:58:43.759] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[03Dec2024 16:58:43.791] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Dec2024 16:58:44.347] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[03Dec2024 16:58:44.355] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Dec2024 16:58:44.657] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
+[03Dec2024 16:58:44.658] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03Dec2024 16:58:44.694] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Dec2024 16:58:44.883] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 112 options available, 0 override(s) found
+[03Dec2024 16:58:44.911] [main/WARN] [mixin/]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 16:58:45.055] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 16:58:47.298] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER
+[03Dec2024 16:58:47.300] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/model/ModelBakery (java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER)
+[03Dec2024 16:58:47.300] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.model.ModelBakery was not found lightspeed.mixins.json:model.ModelBakeryMixin
+[03Dec2024 16:58:48.010] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[03Dec2024 16:58:48.012] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [tagKeyLeak, entityMemoriesLeak, biomeTemperatureLeak]
+[03Dec2024 16:58:48.472] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03Dec2024 16:58:48.475] [main/WARN] [MixinExtras|Service/]: Found problematic active MixinExtras instance at ca.fxco.memoryleakfix.mixinextras (version 0.2.0-beta.6)
+[03Dec2024 16:58:48.477] [main/WARN] [MixinExtras|Service/]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
+[03Dec2024 16:58:50.035] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (19.23 s after launch)
+[03Dec2024 16:58:55.728] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5686 milliseconds
+[03Dec2024 16:59:01.312] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[03Dec2024 16:59:01.324] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected on an developer environment or for testing but not on a production environment!
+[03Dec2024 16:59:01.331] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
+[03Dec2024 16:59:01.331] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
+[03Dec2024 16:59:01.353] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
+[03Dec2024 16:59:02.530] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[03Dec2024 16:59:02.807] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[03Dec2024 16:59:02.807] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[03Dec2024 16:59:02.810] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[03Dec2024 16:59:02.811] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[03Dec2024 16:59:03.500] [modloading-worker-0/WARN] [com.memorysettings.MemorysettingsMod/]: You have less memory allocated(1984mb) than recommended for this pack, the minimum is: 2500mb.
 The recommended amount for your system is: 4185 mb.
 
-[03Dec2024 01:06:36.864] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[03Dec2024 01:06:37.592] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[03Dec2024 01:06:37.594] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
+[03Dec2024 16:59:03.537] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[03Dec2024 16:59:04.312] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[03Dec2024 16:59:04.314] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
  Invalid DataFixer detected, schematics might not paste correctly! 
 The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
 -----------------------------------------------------------------
-[03Dec2024 01:06:37.856] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Dec2024 01:06:37.883] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
-[03Dec2024 01:06:37.888] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
-[03Dec2024 01:06:37.907] [modloading-worker-0/ERROR] [KubeJS/]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
-[03Dec2024 01:06:37.912] [modloading-worker-0/INFO] [KubeJS/]: Done in 28.10 ms
-[03Dec2024 01:06:38.069] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
-[03Dec2024 01:06:38.304] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
-[03Dec2024 01:06:38.307] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
-[03Dec2024 01:06:38.311] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.18.2
-[03Dec2024 01:06:38.570] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.265 s
-[03Dec2024 01:06:39.127] [modloading-worker-0/INFO] [KubeJS Startup/]: Hello, World! (You will only see this line once in console, during startup)
-[03Dec2024 01:06:39.152] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:script.js in 0.195 s
-[03Dec2024 01:06:39.156] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 1.007 s
-[03Dec2024 01:06:39.166] [Thread-1/INFO] [friendsandfoes/]: An update for Friends&Foes is available! You're using 1.4.6 version but the latest version is 1.4.8!
-[03Dec2024 01:06:39.287] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
-[03Dec2024 01:06:39.312] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[03Dec2024 01:06:43.710] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:44.244] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:45.037] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:copper_golem] was not realized!
-[03Dec2024 01:06:45.039] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:iceologer] was not realized!
-[03Dec2024 01:06:45.039] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:moobloom] was not realized!
-[03Dec2024 01:06:45.040] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:mauler] was not realized!
-[03Dec2024 01:06:45.041] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:glare] was not realized!
-[03Dec2024 01:06:45.065] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:45.066] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:45.661] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:45.662] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[03Dec2024 01:06:45.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[03Dec2024 01:06:45.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[03Dec2024 01:06:46.148] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[03Dec2024 01:06:46.183] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[03Dec2024 01:06:46.206] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
-[03Dec2024 01:06:46.276] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[03Dec2024 01:06:46.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[03Dec2024 01:06:46.322] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[03Dec2024 01:06:46.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[03Dec2024 01:06:46.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Dec2024 01:06:46.519] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[03Dec2024 01:06:46.537] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[03Dec2024 01:06:46.540] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[03Dec2024 01:06:46.542] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[03Dec2024 01:06:46.546] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[03Dec2024 01:06:46.573] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[03Dec2024 01:06:46.650] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
-[03Dec2024 01:06:46.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
-[03Dec2024 01:06:46.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[03Dec2024 01:06:47.225] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[03Dec2024 01:06:47.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.24 Target: 1.18.2-2.5.26
-[03Dec2024 01:06:47.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Dec2024 01:06:47.262] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[03Dec2024 01:06:47.340] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[03Dec2024 01:06:47.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[03Dec2024 01:06:47.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[03Dec2024 01:06:47.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[03Dec2024 01:06:47.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[03Dec2024 01:06:47.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.1 Target: 7.7.6
-[03Dec2024 01:06:47.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[03Dec2024 01:06:47.693] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
-[03Dec2024 01:06:47.705] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
-[03Dec2024 01:06:47.741] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[03Dec2024 01:06:47.758] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[03Dec2024 01:06:47.879] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[03Dec2024 01:06:47.942] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/growing-patterns.json5" was read.
-[03Dec2024 01:06:47.997] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/trades.json5" was read.
-[03Dec2024 01:06:48.027] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3de95d05]
-[03Dec2024 01:06:48.034] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[03Dec2024 01:06:48.036] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/settings.json5" was read.
-[03Dec2024 01:06:48.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[03Dec2024 01:06:48.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[03Dec2024 01:06:48.039] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/biomepedia.json5" was read.
-[03Dec2024 01:06:48.050] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
-[03Dec2024 01:06:48.276] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/banaland/servidor_minecraft/config/byg" in "/workspaces/banaland/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
-[03Dec2024 01:06:48.294] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
-[03Dec2024 01:06:48.319] [main/INFO] [journeymap/]: Initializing Packet Registries
-[03Dec2024 01:06:48.447] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[03Dec2024 01:06:48.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.7.3 Target: 3.7.6
-[03Dec2024 01:06:48.528] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 50 ms
-[03Dec2024 01:06:48.582] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
-[03Dec2024 01:06:48.587] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
-[03Dec2024 01:06:48.614] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03Dec2024 01:06:48.614] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[03Dec2024 01:06:48.615] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
-[03Dec2024 01:06:48.619] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
-[03Dec2024 01:06:48.620] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
-[03Dec2024 01:06:48.621] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
-[03Dec2024 01:06:48.803] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
-[03Dec2024 01:06:48.917] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[03Dec2024 01:06:48.923] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
-[03Dec2024 01:06:48.927] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[03Dec2024 01:06:48.931] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
-[03Dec2024 01:06:48.940] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[03Dec2024 01:06:48.943] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[03Dec2024 01:06:48.962] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
-[03Dec2024 01:06:48.964] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
-[03Dec2024 01:06:48.973] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
-[03Dec2024 01:06:48.974] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
-[03Dec2024 01:06:49.270] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Dec2024 01:06:49.894] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/banaland/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23119!/assets/.mcassetsroot' uses unexpected schema
-[03Dec2024 01:06:49.895] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/banaland/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23119!/data/.mcassetsroot' uses unexpected schema
-[03Dec2024 01:06:50.200] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file dynamiclightsreforged-1.18.2_v1.3.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.204] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file adaptive_performance_tweaks_core_1.18.2-11.3.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.204] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.205] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file rhino-forge-1802.2.1-build.255.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.205] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mowziesmobs-1.6.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.206] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file jei-1.18.2-forge-10.2.1.1005.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.206] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterOceanMonuments-1.18.2-Forge-1.0.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.207] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file connectivity-1.18.2-3.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.207] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Incendium_1.18.2_v5.0.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.208] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedcore-1.18.2-0.6.4.604.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.208] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file gpumemleakfix-1.18.2-1.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.209] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file waystones-forge-1.18.2-10.2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.209] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file journeymap-1.18.2-5.9.8-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.210] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file fastasyncworldsave-1.18.2-1.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.210] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file modernfix-forge-5.18.0+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.211] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file citadel-1.11.3-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.211] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file alexsmobs-1.18.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.212] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file artifacts-1.18.2-4.2.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.213] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsApi-1.18.2-Forge-2.2.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.213] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mixinextras-forge-0.3.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.214] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DungeonCrawl-1.18.2-2.3.14.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.214] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedbackpacks-1.18.2-3.20.3.1063.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.215] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lazydfu-1.0-1.18+.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.215] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.215] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file balm-3.2.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.216] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file memoryleakfix-forge-1.17+-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.216] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.218] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Paraglider-1.18.2-1.6.0.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.219] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cloth-config-6.5.133-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.219] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file forge-1.18.2-40.2.21-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.220] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ctov-2.9.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.220] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file konkrete_forge_1.8.0_MC_1.18-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.221] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file embeddium-0.3.18+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.221] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file upgradednetherite-1.18.2-4.3.0.1-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.222] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file selene-1.18.2-1.17.16.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.222] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file supplementaries-1.18.2-1.5.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.223] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DungeonsArise-1.18.2-2.1.52-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.223] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file smoothchunk-1.18.2-1.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.224] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FarmersDelight-1.18.2-1.2.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.224] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file voicechat-forge-1.18.2-2.5.24.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.225] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file TerraBlender-forge-1.18.2-1.2.0.126.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.225] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Jade-1.18.2-forge-5.3.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.225] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CreativeCore_FORGE_v2.11.27_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.226] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file NethersDelight-1.18.2-2.2.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.227] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file domum_ornamentum-1.18.2-1.0.50-ALPHA-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.228] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file memorysettings-1.18.2-5.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.229] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lightspeed-1.18.2-1.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.229] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file L_Enders Cataclysm-0.51-changed Them -1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.229] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file curios-forge-1.18.2-5.0.9.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.230] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file SpartanShields-1.18.2-3.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.231] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file blockui-1.18.2-0.0.71-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.231] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file [1.18.2] SecurityCraft v1.9.11.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.232] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file libnonymous-2.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.232] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file elevatorid-1.18.2-1.8.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.233] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file betterchunkloading-1.18.2-2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.233] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file inventoryhud.forge.1.18.2-3.4.26.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.234] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.234] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file tombstone-1.18.2-7.7.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.235] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file structurize-1.18.2-1.0.424-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.235] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file multi-piston-1.18.2-1.2.15-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.236] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file worldedit-mod-7.2.10.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.236] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file upgradedcore-1.18.2-3.3.0.0-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.237] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file minecolonies-1.18.2-1.1.612-BETA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.237] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cfm-7.0.0-pre35-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.238] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file architectury-4.12.94-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.238] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file kubejs-forge-1802.5.5-build.569.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.239] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file friendsandfoes-forge-mc1.18.2-1.4.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.239] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file appleskin-forge-mc1.18.2-2.5.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.239] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lootr-forge-1.18.2-0.3.29.72.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.240] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ferritecore-4.2.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.240] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cupboard-1.18.2-1.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.241] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterEndIsland-1.18.2-Forge-1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.241] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file dynamic-fps-3.7.3+minecraft-1.18.0-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.242] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.243] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file expandability-6.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.243] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.244] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file chunksending-1.18.2-2.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.244] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file PlayerRevive_FORGE_v2.0.14_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.245] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file geckolib-forge-1.18-3.0.57.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
-[03Dec2024 01:06:50.405] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 110 ms
-[03Dec2024 01:06:50.412] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 0 ms
-[03Dec2024 01:06:51.229] [main/INFO] [KubeJS Server/]: Hello, World! (You will see this line every time server resources reload)
-[03Dec2024 01:06:51.230] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:script.js in 0.004 s
-[03Dec2024 01:06:51.230] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.027 s
-[03Dec2024 01:06:51.232] [main/INFO] [KubeJS Server/]: Scripts loaded
-[03Dec2024 01:06:51.238] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shaped
-[03Dec2024 01:06:51.239] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shapeless
-[03Dec2024 01:06:51.240] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shaped
-[03Dec2024 01:06:51.240] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shapeless
-[03Dec2024 01:06:51.241] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:stonecutting
-[03Dec2024 01:06:51.241] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smelting
-[03Dec2024 01:06:51.243] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:blasting
-[03Dec2024 01:06:51.243] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smoking
-[03Dec2024 01:06:51.245] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:campfire_cooking
-[03Dec2024 01:06:51.246] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smithing
-[03Dec2024 01:06:51.303] [main/INFO] [KubeJS Server/]: Scanning recipes...
-[03Dec2024 01:06:54.608] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
-[03Dec2024 01:06:54.724] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[03Dec2024 01:06:54.800] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Dec2024 01:06:54.802] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Dec2024 01:06:54.807] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Dec2024 01:06:54.809] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Dec2024 01:06:54.811] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03Dec2024 01:06:54.820] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[03Dec2024 01:06:54.833] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03Dec2024 01:06:59.391] [Worker-Main-1/INFO] [KubeJS Server/]: Found 4322 recipes and 0 failed recipes in 466.7 ms
-[03Dec2024 01:06:59.398] [Worker-Main-1/INFO] [KubeJS Server/]: Posted recipe events in 3.142 ms
-[03Dec2024 01:06:59.535] [Worker-Main-1/INFO] [KubeJS Server/]: Modified & removed recipes in 135.9 ms
-[03Dec2024 01:06:59.536] [Worker-Main-1/INFO] [KubeJS Server/]: Added recipes in 467.0 μs
-[03Dec2024 01:06:59.547] [Worker-Main-1/INFO] [KubeJS Server/]: Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
-[03Dec2024 01:06:59.547] [Worker-Main-1/INFO] [ModernFix/]: Clearing KubeJS recipe lists...
-[03Dec2024 01:07:00.427] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[03Dec2024 01:07:00.451] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[03Dec2024 01:07:00.641] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3455 advancements
-[03Dec2024 01:07:00.645] [Worker-Main-1/INFO] [Dungeon Crawl/]: Loading data...
-[03Dec2024 01:07:01.157] [Worker-Main-1/INFO] [Dungeon Crawl/]: Done.
-[03Dec2024 01:07:01.191] [Worker-Main-1/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 34 Soft Fluids
-[03Dec2024 01:07:01.202] [Worker-Main-1/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
-[03Dec2024 01:07:01.212] [Worker-Main-1/INFO] [minecolonies/]: Loaded 131 recipes for 15 crafters
-[03Dec2024 01:07:01.212] [Worker-Main-1/INFO] [minecolonies/]: Beginning load of research for University.
-[03Dec2024 01:07:01.217] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:combat/standard requested higher effect strength than exists.
-[03Dec2024 01:07:01.221] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:combat/telescope requested higher effect strength than exists.
-[03Dec2024 01:07:01.221] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:civilian/vaccines requested higher effect strength than exists.
-[03Dec2024 01:07:01.225] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:civilian/masks requested higher effect strength than exists.
-[03Dec2024 01:07:01.230] [Worker-Main-1/INFO] [minecolonies/]: Loaded 197 recipes for 4 research branches
-[03Dec2024 01:07:01.381] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[03Dec2024 01:07:01.832] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[03Dec2024 01:07:01.853] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[03Dec2024 01:07:01.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[03Dec2024 01:07:01.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Dec2024 01:07:01.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Dec2024 01:07:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Dec2024 01:07:02.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Dec2024 01:07:02.155] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Dec2024 01:07:02.280] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Dec2024 01:07:02.281] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Dec2024 01:07:02.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Dec2024 01:07:02.283] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Dec2024 01:07:02.342] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Dec2024 01:07:02.394] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
-[03Dec2024 01:07:02.403] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 54.533 sec to load ...
-[03Dec2024 01:07:03.275] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:03.274] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:03.609] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03Dec2024 01:07:03.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Dec2024 01:07:05.050] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[03Dec2024 01:07:05.054] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[03Dec2024 01:07:05.070] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[03Dec2024 01:07:05.080] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
-[03Dec2024 01:07:05.081] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[03Dec2024 01:07:05.083] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[03Dec2024 01:07:05.100] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[03Dec2024 01:07:05.106] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
-[03Dec2024 01:07:05.108] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to EASY with a 0.9 factor.
-[03Dec2024 01:07:05.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Dec2024 01:07:05.569] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:05.619] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:07.288] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:07.341] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:07.431] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.432] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.433] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.434] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.435] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.883] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 01:07:07.956] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
-[03Dec2024 01:07:08.448] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[03Dec2024 01:07:08.639] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:08.639] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:08.845] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3734 ms
-[03Dec2024 01:07:08.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.537s)! For help, type "help"
-[03Dec2024 01:07:08.905] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Dec2024 01:07:08.912] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
-[03Dec2024 01:07:08.917] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 61.047 sec to starting (∆: 6.514 secs)...
-[03Dec2024 01:07:09.079] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 61.209 sec to be available and ready to play (∆: 0.162 secs) ...
-[03Dec2024 01:07:09.087] [Server thread/INFO] [structurize/]: Trying jar discover: assets/structurize
-[03Dec2024 01:07:09.095] [Server thread/INFO] [structurize/]: Trying jar discover: assets/minecolonies
-[03Dec2024 01:07:09.951] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:09.990] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:10.279] [Server thread/INFO] [structurize/]: Load additional huts or decorations from ./structurize/schematics
-[03Dec2024 01:07:10.281] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
-[03Dec2024 01:07:10.282] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
-[03Dec2024 01:07:10.453] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
-[03Dec2024 01:07:10.458] [Server thread/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
-[03Dec2024 01:07:11.496] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:11.517] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:12.371] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:12.402] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.074] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.104] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.108] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.567] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.722] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.735] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.739] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.891] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:13.915] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:14.611] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:14.719] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.184] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.223] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.365] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.443] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.535] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.625] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.764] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.764] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:15.914] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.048] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.065] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.224] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.255] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.335] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.405] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.518] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.535] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.694] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.694] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.809] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:16.921] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:17.006] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 52
-[03Dec2024 01:07:17.007] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 30 27
-[03Dec2024 01:07:17.008] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
-[03Dec2024 01:07:17.013] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:17.018] [Server thread/INFO] [minecolonies/]: Finished discovering food 153 182
-[03Dec2024 01:07:17.036] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 690
-[03Dec2024 01:07:17.040] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 438
-[03Dec2024 01:07:17.044] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 175
-[03Dec2024 01:07:17.045] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
-[03Dec2024 01:07:17.046] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
-[03Dec2024 01:07:17.081] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:17.133] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[03Dec2024 01:07:17.146] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03Dec2024 01:07:17.162] [Server thread/WARN] [ModernFix/]: Dedicated server took 69.312 seconds to load
-[03Dec2024 01:07:17.182] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1700
-[03Dec2024 01:07:20.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to LOW (avg. 26.84802496)
-[03Dec2024 01:07:20.028] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.26306766)
-[03Dec2024 01:07:20.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.0751852)
-[03Dec2024 01:07:23.187] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@c921043[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:55147): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:23.190] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c921043[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:55147) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:23.239] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:07:23.581] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@276e3c42
-[03Dec2024 01:07:23.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:40343] logged in with entity id 607 at (-53.300283290894924, 78.5, 181.4673434310138)
-[03Dec2024 01:07:23.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
-[03Dec2024 01:07:24.287] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
-[03Dec2024 01:07:24.335] [Server thread/INFO] [structurize/]: New Server UUID 1b6b8300-2562-4343-a2a0-192e0842102b
-[03Dec2024 01:07:24.506] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
-[03Dec2024 01:07:24.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
-[03Dec2024 01:07:26.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[03Dec2024 01:07:30.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@630f15d9[id=266823e8-bf22-3122-942a-f8c04bd92118,name=Pine_dita46,properties={},legacy=false] (/127.77.234.57:43395): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:30.815] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@630f15d9[id=266823e8-bf22-3122-942a-f8c04bd92118,name=Pine_dita46,properties={},legacy=false] (/127.77.234.57:43395) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:31.009] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:07:31.819] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.594520568847656) to VERY_HIGH (avg. 157.7135009765625)
-[03Dec2024 01:07:32.957] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@51153284[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:59149): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:32.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51153284[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:59149) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:33.061] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:07:35.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 26.84802496) to VERY_HIGH (avg. 87.06795138)
-[03Dec2024 01:07:42.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Disconnected
-[03Dec2024 01:07:42.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
-[03Dec2024 01:07:42.500] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
-[03Dec2024 01:07:43.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 157.7135009765625) to VERY_LOW (avg. 19.729507446289062)
-[03Dec2024 01:07:44.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
-[03Dec2024 01:07:59.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@15e3d389[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:40827): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:07:59.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15e3d389[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:40827) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:08:00.020] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:08:03.184] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45869812
-[03Dec2024 01:08:03.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.23.194.233:49295] logged in with entity id 825 at (-53.300283290894924, 78.5, 181.4673434310138)
-[03Dec2024 01:08:03.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
-[03Dec2024 01:08:03.341] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
-[03Dec2024 01:08:03.449] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
-[03Dec2024 01:08:03.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
-[03Dec2024 01:08:07.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[03Dec2024 01:08:10.032] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@19d16e05[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:52367): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:08:10.033] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19d16e05[id=eb3ad1a3-b670-3679-a957-dedcd01eb5fd,name=MonisXD,properties={},legacy=false] (/127.192.174.81:52367) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:08:10.153] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:08:13.101] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 5.21975040435791) to VERY_HIGH (avg. 82.11172485351562)
-[03Dec2024 01:08:13.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7809b1fd
-[03Dec2024 01:08:13.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RcH_1[/127.248.234.133:54399] logged in with entity id 1030 at (4.5, 69.0, 10.5)
-[03Dec2024 01:08:13.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 joined the game
-[03Dec2024 01:08:13.884] [Server thread/INFO] [Waila/]: Syncing config to RcH_1 (4a336c51-a6ae-3204-ae1f-2b912fdce9c7)
-[03Dec2024 01:08:13.951] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RcH_1 (18)
-[03Dec2024 01:08:13.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RcH_1
-[03Dec2024 01:08:23.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@a9ac81b[id=266823e8-bf22-3122-942a-f8c04bd92118,name=Pine_dita46,properties={},legacy=false] (/127.77.234.57:33221): You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:08:23.949] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a9ac81b[id=266823e8-bf22-3122-942a-f8c04bd92118,name=Pine_dita46,properties={},legacy=false] (/127.77.234.57:33221) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[03Dec2024 01:08:24.017] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:08:24.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RcH_1 lost connection: Disconnected
-[03Dec2024 01:08:24.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 left the game
-[03Dec2024 01:08:24.886] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RcH_1
-[03Dec2024 01:08:25.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Unbanned MonisXD]
-[03Dec2024 01:08:29.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6984ms or 139 ticks behind
-[03Dec2024 01:08:29.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Unbanned Pine_dita46]
-[03Dec2024 01:08:31.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2115c464
-[03Dec2024 01:08:31.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pine_dita46[/127.77.234.57:49385] logged in with entity id 1131 at (68.7170249692744, 78.02442408821369, -41.419632976187366)
-[03Dec2024 01:08:31.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 joined the game
-[03Dec2024 01:08:32.017] [Server thread/INFO] [Waila/]: Syncing config to Pine_dita46 (266823e8-bf22-3122-942a-f8c04bd92118)
-[03Dec2024 01:08:32.407] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pine_dita46 (18)
-[03Dec2024 01:08:32.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pine_dita46
-[03Dec2024 01:08:48.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b0bc51a
-[03Dec2024 01:08:48.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MonisXD[/127.192.174.81:51259] logged in with entity id 1305 at (-16.30000001192093, 72.0, 0.699999988079071)
-[03Dec2024 01:08:48.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD joined the game
-[03Dec2024 01:08:48.265] [Server thread/INFO] [Waila/]: Syncing config to MonisXD (eb3ad1a3-b670-3679-a957-dedcd01eb5fd)
-[03Dec2024 01:08:48.376] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MonisXD (18)
-[03Dec2024 01:08:48.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MonisXD
-[03Dec2024 01:09:02.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18093ms or 361 ticks behind
-[03Dec2024 01:09:11.150] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b443c99
-[03Dec2024 01:09:11.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RcH_1[/127.248.234.133:45983] logged in with entity id 1436 at (4.5, 69.0, 10.5)
-[03Dec2024 01:09:11.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 joined the game
-[03Dec2024 01:09:11.394] [Server thread/INFO] [Waila/]: Syncing config to RcH_1 (4a336c51-a6ae-3204-ae1f-2b912fdce9c7)
-[03Dec2024 01:09:11.463] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RcH_1 (18)
-[03Dec2024 01:09:11.464] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RcH_1
-[03Dec2024 01:09:25.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8375ms or 167 ticks behind
-[03Dec2024 01:09:33.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HappyEsteban> gays todos
-[03Dec2024 01:09:37.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> cambien esta monda
-[03Dec2024 01:09:42.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> pongalo de dia
-[03Dec2024 01:09:43.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> hey si
-[03Dec2024 01:09:46.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
-[03Dec2024 01:09:53.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> oe y las skins les cargan a ustedes?
-[03Dec2024 01:10:08.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7151ms or 143 ticks behind
-[03Dec2024 01:10:26.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.13699340820312) to MEDIUM (avg. 47.625362396240234)
-[03Dec2024 01:10:31.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8261ms or 165 ticks behind
-[03Dec2024 01:10:38.746] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.625362396240234) to VERY_HIGH (avg. 83.89715576171875)
-[03Dec2024 01:10:39.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD has made the advancement ['X' Marks the Spot]
-[03Dec2024 01:10:48.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement ['X' Marks the Spot]
-[03Dec2024 01:10:50.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Crops of the Wild]
-[03Dec2024 01:10:53.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the time to 1000]
-[03Dec2024 01:10:57.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10776ms or 215 ticks behind
-[03Dec2024 01:11:00.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the weather to clear]
-[03Dec2024 01:11:20.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8042ms or 160 ticks behind
-[03Dec2024 01:11:26.975] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.52729797363281) to HIGH (avg. 53.33748245239258)
-[03Dec2024 01:11:39.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
-[03Dec2024 01:11:42.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD has made the advancement [Crops of the Wild]
-[03Dec2024 01:11:43.164] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.33748245239258) to LOW (avg. 22.846023559570312)
-[03Dec2024 01:11:49.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Stone Age]
-[03Dec2024 01:12:06.135] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.791831970214844) to VERY_HIGH (avg. 77.86407470703125)
-[03Dec2024 01:12:12.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Disconnected
-[03Dec2024 01:12:12.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
-[03Dec2024 01:12:12.355] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
-[03Dec2024 01:12:13.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 has reached the goal [Flowers of the Savanna]
-[03Dec2024 01:12:14.441] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 77.86407470703125) to NORMAL (avg. 45.78072738647461)
-[03Dec2024 01:12:28.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.78072738647461) to VERY_LOW (avg. 17.683958053588867)
-[03Dec2024 01:12:34.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Getting an Upgrade]
-[03Dec2024 01:12:37.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@96682c9
-[03Dec2024 01:12:37.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:37533] logged in with entity id 2593 at (77.38577158440695, 86.48747159921791, 110.27961020116282)
-[03Dec2024 01:12:37.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
-[03Dec2024 01:12:37.706] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
-[03Dec2024 01:12:38.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
-[03Dec2024 01:12:38.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
-[03Dec2024 01:12:39.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RcH_1 lost connection: Disconnected
-[03Dec2024 01:12:39.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 left the game
-[03Dec2024 01:12:39.012] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RcH_1
-[03Dec2024 01:12:44.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[03Dec2024 01:12:45.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.683958053588867) to VERY_HIGH (avg. 61.36859130859375)
-[03Dec2024 01:12:57.519] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e85cd38
-[03Dec2024 01:12:57.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RcH_1[/127.248.234.133:42527] logged in with entity id 3039 at (118.30000001192093, 63.0, -12.34625067403901)
-[03Dec2024 01:12:57.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 joined the game
-[03Dec2024 01:12:57.602] [Server thread/INFO] [Waila/]: Syncing config to RcH_1 (4a336c51-a6ae-3204-ae1f-2b912fdce9c7)
-[03Dec2024 01:12:57.745] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RcH_1 (18)
-[03Dec2024 01:12:57.746] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RcH_1
-[03Dec2024 01:13:06.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7372ms or 147 ticks behind
-[03Dec2024 01:13:30.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8830ms or 176 ticks behind
-[03Dec2024 01:13:37.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD has made the advancement [Acquire Hardware]
-[03Dec2024 01:13:51.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD has made the advancement [We do a little trolling...]
-[03Dec2024 01:13:53.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8085ms or 161 ticks behind
-[03Dec2024 01:13:54.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Teleported MonisXD to HappyEsteban]
-[03Dec2024 01:14:11.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Teleported RcH_1 to HappyEsteban]
-[03Dec2024 01:14:22.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 is bleeding. RcH_1 fell from a high place
-[03Dec2024 01:14:22.132] [Server thread/WARN] [tombstone/]: The death event of the player RcH_1 was canceled by another mod
-[03Dec2024 01:14:22.405] [Server thread/INFO] [tombstone/]: The player RcH_1 has successfully been saved
-[03Dec2024 01:14:24.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Teleported Pine_dita46 to HappyEsteban]
-[03Dec2024 01:14:35.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27273ms or 545 ticks behind
-[03Dec2024 01:14:48.257] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 91.39649963378906) to HIGH (avg. 54.08390808105469)
-[03Dec2024 01:14:57.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7155ms or 143 ticks behind
-[03Dec2024 01:15:11.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.22228240966797) to VERY_HIGH (avg. 56.06929397583008)
-[03Dec2024 01:15:20.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7439ms or 148 ticks behind
-[03Dec2024 01:15:41.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6213ms or 124 ticks behind
-[03Dec2024 01:15:42.517] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 73.99874877929688) to HIGH (avg. 52.364234924316406)
-[03Dec2024 01:16:01.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5407ms or 108 ticks behind
-[03Dec2024 01:16:03.941] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.62158203125) to VERY_HIGH (avg. 105.20573425292969)
+[03Dec2024 16:59:04.509] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Dec2024 16:59:04.522] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[03Dec2024 16:59:04.535] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[03Dec2024 16:59:04.553] [modloading-worker-0/ERROR] [KubeJS/]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
+[03Dec2024 16:59:04.555] [modloading-worker-0/INFO] [KubeJS/]: Done in 32.85 ms
+[03Dec2024 16:59:04.700] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[03Dec2024 16:59:04.940] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[03Dec2024 16:59:04.942] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[03Dec2024 16:59:04.946] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.18.2
+[03Dec2024 16:59:05.274] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.332 s
+[03Dec2024 16:59:05.882] [modloading-worker-0/INFO] [KubeJS Startup/]: Hello, World! (You will only see this line once in console, during startup)
+[03Dec2024 16:59:05.913] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:script.js in 0.218 s
+[03Dec2024 16:59:05.920] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 1.168 s
+[03Dec2024 16:59:05.938] [Thread-1/INFO] [friendsandfoes/]: An update for Friends&Foes is available! You're using 1.4.6 version but the latest version is 1.4.8!
+[03Dec2024 16:59:06.044] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[03Dec2024 16:59:06.070] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Dec2024 16:59:10.601] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:11.137] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:11.832] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:glare] was not realized!
+[03Dec2024 16:59:11.834] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:mauler] was not realized!
+[03Dec2024 16:59:11.834] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:moobloom] was not realized!
+[03Dec2024 16:59:11.835] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:copper_golem] was not realized!
+[03Dec2024 16:59:11.836] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / friendsandfoes:iceologer] was not realized!
+[03Dec2024 16:59:11.851] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:11.852] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:12.482] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:12.483] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[03Dec2024 16:59:12.819] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[03Dec2024 16:59:12.821] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[03Dec2024 16:59:13.128] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[03Dec2024 16:59:13.173] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[03Dec2024 16:59:13.239] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[03Dec2024 16:59:13.297] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[03Dec2024 16:59:13.348] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[03Dec2024 16:59:13.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Dec2024 16:59:13.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[03Dec2024 16:59:13.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Dec2024 16:59:13.492] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[03Dec2024 16:59:13.518] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[03Dec2024 16:59:13.564] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[03Dec2024 16:59:13.569] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[03Dec2024 16:59:13.570] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[03Dec2024 16:59:13.582] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[03Dec2024 16:59:13.632] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[03Dec2024 16:59:13.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
+[03Dec2024 16:59:13.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[03Dec2024 16:59:14.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.24 Target: 1.18.2-2.5.26
+[03Dec2024 16:59:14.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Dec2024 16:59:14.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[03Dec2024 16:59:14.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[03Dec2024 16:59:14.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[03Dec2024 16:59:14.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03Dec2024 16:59:14.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.1 Target: 7.7.6
+[03Dec2024 16:59:14.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[03Dec2024 16:59:14.497] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[03Dec2024 16:59:14.525] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[03Dec2024 16:59:14.571] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[03Dec2024 16:59:14.818] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+[03Dec2024 16:59:14.827] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
+[03Dec2024 16:59:14.865] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03Dec2024 16:59:14.893] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@378d73e3]
+[03Dec2024 16:59:14.907] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[03Dec2024 16:59:14.909] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[03Dec2024 16:59:14.933] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[03Dec2024 16:59:14.939] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03Dec2024 16:59:14.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[03Dec2024 16:59:14.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[03Dec2024 16:59:15.099] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+[03Dec2024 16:59:15.182] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/trades.json5" was read.
+[03Dec2024 16:59:15.204] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/settings.json5" was read.
+[03Dec2024 16:59:15.206] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/biomepedia.json5" was read.
+[03Dec2024 16:59:15.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.7.3 Target: 3.7.6
+[03Dec2024 16:59:15.402] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/banaland/servidor_minecraft/config/byg" in "/workspaces/banaland/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+[03Dec2024 16:59:15.419] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
+[03Dec2024 16:59:15.448] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Dec2024 16:59:15.491] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[03Dec2024 16:59:15.561] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 45 ms
+[03Dec2024 16:59:15.605] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
+[03Dec2024 16:59:15.611] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
+[03Dec2024 16:59:15.639] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Dec2024 16:59:15.640] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Dec2024 16:59:15.640] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[03Dec2024 16:59:15.644] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[03Dec2024 16:59:15.646] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[03Dec2024 16:59:15.648] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[03Dec2024 16:59:15.787] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[03Dec2024 16:59:15.904] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[03Dec2024 16:59:15.908] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.blay09.mods.waystones.compat.WailaProvider
+[03Dec2024 16:59:15.916] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[03Dec2024 16:59:15.921] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[03Dec2024 16:59:15.931] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[03Dec2024 16:59:15.933] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[03Dec2024 16:59:15.944] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
+[03Dec2024 16:59:15.945] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
+[03Dec2024 16:59:15.954] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
+[03Dec2024 16:59:15.954] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[03Dec2024 16:59:16.248] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Dec2024 16:59:16.841] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/banaland/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23119!/assets/.mcassetsroot' uses unexpected schema
+[03Dec2024 16:59:16.842] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/banaland/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23119!/data/.mcassetsroot' uses unexpected schema
+[03Dec2024 16:59:17.062] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file dynamiclightsreforged-1.18.2_v1.3.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.067] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file adaptive_performance_tweaks_core_1.18.2-11.3.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.067] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.068] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file rhino-forge-1802.2.1-build.255.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.069] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mowziesmobs-1.6.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.070] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file jei-1.18.2-forge-10.2.1.1005.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.070] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterOceanMonuments-1.18.2-Forge-1.0.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.071] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file connectivity-1.18.2-3.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.071] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Incendium_1.18.2_v5.0.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.077] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedcore-1.18.2-0.6.4.604.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.078] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file gpumemleakfix-1.18.2-1.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.078] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file waystones-forge-1.18.2-10.2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.079] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file journeymap-1.18.2-5.9.8-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.080] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file fastasyncworldsave-1.18.2-1.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.080] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file modernfix-forge-5.18.0+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.081] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file citadel-1.11.3-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.082] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file alexsmobs-1.18.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.083] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file artifacts-1.18.2-4.2.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.084] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsApi-1.18.2-Forge-2.2.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.085] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mixinextras-forge-0.3.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.085] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DungeonCrawl-1.18.2-2.3.14.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.086] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedbackpacks-1.18.2-3.20.3.1063.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.086] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lazydfu-1.0-1.18+.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.087] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.097] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file balm-3.2.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.098] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file memoryleakfix-forge-1.17+-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.098] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.099] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Paraglider-1.18.2-1.6.0.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.100] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cloth-config-6.5.133-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.100] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file forge-1.18.2-40.2.21-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.101] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ctov-2.9.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.102] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file konkrete_forge_1.8.0_MC_1.18-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.103] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file embeddium-0.3.18+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.104] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file upgradednetherite-1.18.2-4.3.0.1-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.104] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file selene-1.18.2-1.17.16.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.105] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file supplementaries-1.18.2-1.5.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.105] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DungeonsArise-1.18.2-2.1.52-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.106] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file smoothchunk-1.18.2-1.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.106] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FarmersDelight-1.18.2-1.2.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.107] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file voicechat-forge-1.18.2-2.5.24.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.108] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file TerraBlender-forge-1.18.2-1.2.0.126.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.108] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Jade-1.18.2-forge-5.3.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.109] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CreativeCore_FORGE_v2.11.27_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.109] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file NethersDelight-1.18.2-2.2.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.110] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file domum_ornamentum-1.18.2-1.0.50-ALPHA-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.116] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file memorysettings-1.18.2-5.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.116] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lightspeed-1.18.2-1.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.117] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file L_Enders Cataclysm-0.51-changed Them -1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.117] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file curios-forge-1.18.2-5.0.9.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.125] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file SpartanShields-1.18.2-3.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.126] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file blockui-1.18.2-0.0.71-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.126] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file [1.18.2] SecurityCraft v1.9.11.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.127] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file libnonymous-2.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.127] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file elevatorid-1.18.2-1.8.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.128] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file betterchunkloading-1.18.2-2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.128] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file inventoryhud.forge.1.18.2-3.4.26.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.129] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.129] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file tombstone-1.18.2-7.7.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.130] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file structurize-1.18.2-1.0.424-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.130] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file multi-piston-1.18.2-1.2.15-ALPHA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.131] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file worldedit-mod-7.2.10.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.132] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file upgradedcore-1.18.2-3.3.0.0-release.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.133] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file minecolonies-1.18.2-1.1.612-BETA.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.133] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cfm-7.0.0-pre35-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.134] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file architectury-4.12.94-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.134] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file kubejs-forge-1802.5.5-build.569.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.135] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file friendsandfoes-forge-mc1.18.2-1.4.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.135] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file appleskin-forge-mc1.18.2-2.5.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.136] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lootr-forge-1.18.2-0.3.29.72.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.137] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ferritecore-4.2.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.137] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cupboard-1.18.2-1.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.138] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterEndIsland-1.18.2-Forge-1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.139] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file dynamic-fps-3.7.3+minecraft-1.18.0-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.139] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.140] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file expandability-6.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.140] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.141] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file chunksending-1.18.2-2.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.142] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file PlayerRevive_FORGE_v2.0.14_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.143] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file geckolib-forge-1.18-3.0.57.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[03Dec2024 16:59:17.312] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 129 ms
+[03Dec2024 16:59:17.316] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 0 ms
+[03Dec2024 16:59:18.204] [main/INFO] [KubeJS Server/]: Hello, World! (You will see this line every time server resources reload)
+[03Dec2024 16:59:18.206] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:script.js in 0.013 s
+[03Dec2024 16:59:18.206] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.039 s
+[03Dec2024 16:59:18.208] [main/INFO] [KubeJS Server/]: Scripts loaded
+[03Dec2024 16:59:18.215] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shaped
+[03Dec2024 16:59:18.224] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shapeless
+[03Dec2024 16:59:18.224] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shaped
+[03Dec2024 16:59:18.226] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[03Dec2024 16:59:18.228] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:stonecutting
+[03Dec2024 16:59:18.234] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smelting
+[03Dec2024 16:59:18.234] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:blasting
+[03Dec2024 16:59:18.235] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smoking
+[03Dec2024 16:59:18.236] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:campfire_cooking
+[03Dec2024 16:59:18.237] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smithing
+[03Dec2024 16:59:18.302] [main/INFO] [KubeJS Server/]: Scanning recipes...
+[03Dec2024 16:59:21.649] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[03Dec2024 16:59:21.846] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[03Dec2024 16:59:21.930] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Dec2024 16:59:21.935] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Dec2024 16:59:21.940] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Dec2024 16:59:21.943] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Dec2024 16:59:21.945] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Dec2024 16:59:21.962] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[03Dec2024 16:59:21.989] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Dec2024 16:59:25.940] [Worker-Main-1/INFO] [KubeJS Server/]: Found 4322 recipes and 0 failed recipes in 357.5 ms
+[03Dec2024 16:59:25.943] [Worker-Main-1/INFO] [KubeJS Server/]: Posted recipe events in 1.400 ms
+[03Dec2024 16:59:26.149] [Worker-Main-1/INFO] [KubeJS Server/]: Modified & removed recipes in 202.8 ms
+[03Dec2024 16:59:26.152] [Worker-Main-1/INFO] [KubeJS Server/]: Added recipes in 448.9 μs
+[03Dec2024 16:59:26.170] [Worker-Main-1/INFO] [KubeJS Server/]: Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[03Dec2024 16:59:26.172] [Worker-Main-1/INFO] [ModernFix/]: Clearing KubeJS recipe lists...
+[03Dec2024 16:59:26.942] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[03Dec2024 16:59:26.957] [Worker-Main-1/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[03Dec2024 16:59:27.283] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3455 advancements
+[03Dec2024 16:59:27.286] [Worker-Main-1/INFO] [Dungeon Crawl/]: Loading data...
+[03Dec2024 16:59:28.184] [Worker-Main-1/INFO] [Dungeon Crawl/]: Done.
+[03Dec2024 16:59:28.230] [Worker-Main-1/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 34 Soft Fluids
+[03Dec2024 16:59:28.242] [Worker-Main-1/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[03Dec2024 16:59:28.250] [Worker-Main-1/INFO] [minecolonies/]: Loaded 131 recipes for 15 crafters
+[03Dec2024 16:59:28.251] [Worker-Main-1/INFO] [minecolonies/]: Beginning load of research for University.
+[03Dec2024 16:59:28.255] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:combat/standard requested higher effect strength than exists.
+[03Dec2024 16:59:28.259] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:combat/telescope requested higher effect strength than exists.
+[03Dec2024 16:59:28.260] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:civilian/vaccines requested higher effect strength than exists.
+[03Dec2024 16:59:28.266] [Worker-Main-1/WARN] [minecolonies/]: Research minecolonies:civilian/masks requested higher effect strength than exists.
+[03Dec2024 16:59:28.270] [Worker-Main-1/INFO] [minecolonies/]: Loaded 197 recipes for 4 research branches
+[03Dec2024 16:59:28.426] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[03Dec2024 16:59:28.810] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[03Dec2024 16:59:28.830] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[03Dec2024 16:59:28.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[03Dec2024 16:59:28.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Dec2024 16:59:28.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Dec2024 16:59:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Dec2024 16:59:29.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Dec2024 16:59:29.058] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Dec2024 16:59:29.173] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Dec2024 16:59:29.174] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Dec2024 16:59:29.175] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Dec2024 16:59:29.176] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Dec2024 16:59:29.199] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 16:59:29.264] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
+[03Dec2024 16:59:29.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 58.373 sec to load ...
+[03Dec2024 16:59:29.878] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Dec2024 16:59:29.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Dec2024 16:59:30.962] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03Dec2024 16:59:30.968] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[03Dec2024 16:59:30.970] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03Dec2024 16:59:30.991] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[03Dec2024 16:59:30.992] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[03Dec2024 16:59:30.998] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[03Dec2024 16:59:31.000] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/banaland/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[03Dec2024 16:59:31.020] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[03Dec2024 16:59:31.021] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to EASY with a 0.9 factor.
+[03Dec2024 16:59:31.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Dec2024 16:59:33.630] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:33.631] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:33.636] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:33.638] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:33.639] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:33.640] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 16:59:34.102] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[03Dec2024 16:59:34.204] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[03Dec2024 16:59:34.519] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3495 ms
+[03Dec2024 16:59:34.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.333s)! For help, type "help"
+[03Dec2024 16:59:34.604] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Dec2024 16:59:34.609] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
+[03Dec2024 16:59:34.609] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 63.717 sec to starting (∆: 5.344 secs)...
+[03Dec2024 16:59:34.653] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 63.761 sec to be available and ready to play (∆: 0.044 secs) ...
+[03Dec2024 16:59:34.655] [Server thread/INFO] [structurize/]: Trying jar discover: assets/structurize
+[03Dec2024 16:59:34.659] [Server thread/INFO] [structurize/]: Trying jar discover: assets/minecolonies
+[03Dec2024 16:59:36.651] [Server thread/INFO] [structurize/]: Load additional huts or decorations from ./structurize/schematics
+[03Dec2024 16:59:36.652] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
+[03Dec2024 16:59:36.653] [Server thread/INFO] [structurize/]: Load cached schematic from ./structurize/cache
+[03Dec2024 16:59:36.740] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Dec2024 16:59:36.745] [Server thread/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
+[03Dec2024 16:59:42.492] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 52
+[03Dec2024 16:59:42.501] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 30 27
+[03Dec2024 16:59:42.502] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[03Dec2024 16:59:42.522] [Server thread/INFO] [minecolonies/]: Finished discovering food 153 182
+[03Dec2024 16:59:42.546] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 690
+[03Dec2024 16:59:42.552] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 438
+[03Dec2024 16:59:42.555] [Server thread/INFO] [minecolonies/]: Finished discovering lucky oreBlocks 175
+[03Dec2024 16:59:42.558] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[03Dec2024 16:59:42.560] [Server thread/INFO] [minecolonies/]: Finished discovering diseases
+[03Dec2024 16:59:42.690] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03Dec2024 16:59:42.705] [Server thread/WARN] [ModernFix/]: Dedicated server took 71.903 seconds to load
+[03Dec2024 16:59:42.731] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1700
+[03Dec2024 16:59:44.339] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 50.0) to HIGH (avg. 51.56294631958008)
+[03Dec2024 16:59:45.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to LOW (avg. 23.58104925)
+[03Dec2024 16:59:45.307] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.26242821)
+[03Dec2024 16:59:45.309] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04073844)
+[03Dec2024 16:59:58.558] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.56294631958008) to VERY_LOW (avg. 3.2066147327423096)
+[03Dec2024 17:02:49.099] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78aa619f
+[03Dec2024 17:02:49.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CTM_GeeKox[/127.88.204.89:43733] logged in with entity id 551 at (-9.5, 78.0, -3.5)
+[03Dec2024 17:02:49.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox joined the game
+[03Dec2024 17:02:50.064] [Server thread/INFO] [Waila/]: Syncing config to CTM_GeeKox (a54706e8-bd60-3e24-abb5-80d7d5188770)
+[03Dec2024 17:02:50.095] [Server thread/INFO] [structurize/]: New Server UUID 8672d469-107a-4e4b-aa8f-f4bddf14ec95
+[03Dec2024 17:02:51.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CTM_GeeKox (18)
+[03Dec2024 17:02:51.353] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CTM_GeeKox
+[03Dec2024 17:02:51.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[03Dec2024 17:02:53.958] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 3.4165635108947754) to HIGH (avg. 51.74469757080078)
+[03Dec2024 17:02:54.969] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 23.58104925) to NORMAL (avg. 40.35165637)
+[03Dec2024 17:03:00.613] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.74469757080078) to LOW (avg. 35.10402297973633)
+[03Dec2024 17:03:12.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1447fd3f
+[03Dec2024 17:03:12.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:51691] logged in with entity id 776 at (-83.31327509736069, 78.0, 203.00927422477926)
+[03Dec2024 17:03:12.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
+[03Dec2024 17:03:12.916] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
+[03Dec2024 17:03:15.626] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
+[03Dec2024 17:03:15.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
+[03Dec2024 17:03:16.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[03Dec2024 17:03:16.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox has made the advancement [Alex's Mobs]
+[03Dec2024 17:03:18.522] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.10402297973633) to HIGH (avg. 50.59291076660156)
+[03Dec2024 17:03:20.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.35165637) to HIGH (avg. 49.17320995)
+[03Dec2024 17:03:33.469] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.59291076660156) to LOW (avg. 26.17072105407715)
+[03Dec2024 17:03:33.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the time to 1000]
+[03Dec2024 17:03:38.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set own game mode to Creative Mode]
+[03Dec2024 17:03:42.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the weather to clear]
+[03Dec2024 17:03:47.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=71, z=-1}
+[03Dec2024 17:03:47.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=70, z=-1}
+[03Dec2024 17:04:02.738] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.07093811035156) to HIGH (avg. 49.061214447021484)
+[03Dec2024 17:04:17.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.061214447021484) to LOW (avg. 31.189668655395508)
+[03Dec2024 17:04:47.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox is bleeding. CTM_GeeKox was slain by Zombie
+[03Dec2024 17:04:47.417] [Server thread/WARN] [tombstone/]: The death event of the player CTM_GeeKox was canceled by another mod
+[03Dec2024 17:04:47.434] [Server thread/INFO] [tombstone/]: The player CTM_GeeKox has successfully been saved
+[03Dec2024 17:04:47.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.96522903442383) to VERY_LOW (avg. 18.230745315551758)
+[03Dec2024 17:05:02.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.230745315551758) to LOW (avg. 20.877670288085938)
+[03Dec2024 17:05:05.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox was slain by HappyEsteban
+[03Dec2024 17:05:05.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox has made the advancement [Your First Grave]
+[03Dec2024 17:05:05.380] [Server thread/INFO] [tombstone/]: The player CTM_GeeKox has successfully been saved
+[03Dec2024 17:05:10.129] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 20.877670288085938) to NORMAL (avg. 41.71478271484375)
+[03Dec2024 17:05:25.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.71478271484375) to VERY_LOW (avg. 13.154755592346191)
+[03Dec2024 17:05:36.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox has reached the goal [Here They Come]
+[03Dec2024 17:05:55.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.918968200683594) to LOW (avg. 36.6803092956543)
+[03Dec2024 17:06:10.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.6803092956543) to VERY_LOW (avg. 11.723175048828125)
+[03Dec2024 17:06:25.108] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.723175048828125) to LOW (avg. 37.86750030517578)
+[03Dec2024 17:06:32.693] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.86750030517578) to MEDIUM (avg. 48.274620056152344)
+[03Dec2024 17:06:47.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.274620056152344) to VERY_LOW (avg. 15.548754692077637)
+[03Dec2024 17:06:50.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Teleported CTM_GeeKox to HappyEsteban]
+[03Dec2024 17:07:00.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox is bleeding. CTM_GeeKox fell out of the world
+[03Dec2024 17:07:00.977] [Server thread/WARN] [tombstone/]: The death event of the player CTM_GeeKox was canceled by another mod
+[03Dec2024 17:07:00.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Killed CTM_GeeKox]
+[03Dec2024 17:07:00.979] [Server thread/INFO] [tombstone/]: The player CTM_GeeKox has successfully been saved
+[03Dec2024 17:07:17.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox was slain by HappyEsteban
+[03Dec2024 17:07:17.040] [Server thread/INFO] [tombstone/]: The player CTM_GeeKox has successfully been saved
+[03Dec2024 17:08:32.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.512563705444336) to LOW (avg. 24.945999145507812)
+[03Dec2024 17:09:00.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Teleported CTM_GeeKox to HappyEsteban]
+[03Dec2024 17:09:17.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.485851287841797) to VERY_LOW (avg. 18.934274673461914)
+[03Dec2024 17:09:25.108] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.934274673461914) to LOW (avg. 24.763633728027344)
+[03Dec2024 17:09:40.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.763633728027344) to VERY_LOW (avg. 19.580944061279297)
+[03Dec2024 17:09:55.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.580944061279297) to LOW (avg. 21.44617462158203)
+[03Dec2024 17:10:10.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.44617462158203) to VERY_LOW (avg. 16.056962966918945)
+[03Dec2024 17:10:17.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.056962966918945) to LOW (avg. 28.954282760620117)
+[03Dec2024 17:10:47.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.87596893310547) to VERY_LOW (avg. 17.509292602539062)
+[03Dec2024 17:11:32.627] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.865407943725586) to NORMAL (avg. 41.29255676269531)
+[03Dec2024 17:11:47.612] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.29255676269531) to LOW (avg. 27.453704833984375)
+[03Dec2024 17:11:53.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CTM_GeeKox lost connection: Disconnected
+[03Dec2024 17:11:53.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CTM_GeeKox left the game
+[03Dec2024 17:11:53.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CTM_GeeKox
+[03Dec2024 17:12:02.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.453704833984375) to VERY_LOW (avg. 16.25605010986328)
+[03Dec2024 17:13:02.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.196172714233398) to LOW (avg. 26.88159942626953)
+[03Dec2024 17:13:29.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the time to 1000]
+[03Dec2024 17:13:32.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.79647445678711) to VERY_LOW (avg. 17.39618682861328)
+[03Dec2024 17:13:36.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [HappyEsteban: Set the weather to clear]
+[03Dec2024 17:13:55.108] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.139129638671875) to LOW (avg. 26.036827087402344)
+[03Dec2024 17:14:10.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.036827087402344) to VERY_LOW (avg. 11.852025985717773)
+[03Dec2024 17:14:32.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.30499267578125) to LOW (avg. 31.995088577270508)
+[03Dec2024 17:14:47.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.995088577270508) to VERY_LOW (avg. 17.712631225585938)
+[03Dec2024 17:15:25.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.102667808532715) to LOW (avg. 20.748432159423828)
+[03Dec2024 17:15:40.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.748432159423828) to VERY_LOW (avg. 15.786075592041016)
+[03Dec2024 17:15:47.610] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.786075592041016) to LOW (avg. 32.01155090332031)
+[03Dec2024 17:16:02.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.01155090332031) to VERY_LOW (avg. 16.490297317504883)
+[03Dec2024 17:17:02.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.886150360107422) to LOW (avg. 20.339567184448242)
+[03Dec2024 17:17:17.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.339567184448242) to VERY_LOW (avg. 15.350462913513184)
+[03Dec2024 17:17:47.608] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.695385932922363) to LOW (avg. 22.412479400634766)
+[03Dec2024 17:18:02.607] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.412479400634766) to VERY_LOW (avg. 17.417604446411133)
+[03Dec2024 17:18:17.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.417604446411133) to LOW (avg. 21.608142852783203)
+[03Dec2024 17:18:40.440] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.56466293334961) to VERY_HIGH (avg. 63.63140106201172)
