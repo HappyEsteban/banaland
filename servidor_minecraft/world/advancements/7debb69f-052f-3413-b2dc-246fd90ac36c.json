@@ -691,6 +691,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-02 22:07:41 +0000"
@@ -900,6 +906,12 @@
       "has_chiseled_quartz_block": "2024-12-02 13:37:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -1219,11 +1231,23 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-11-18 23:37:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
@@ -1342,6 +1366,12 @@
       "has_planks": "2024-11-20 14:14:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -1618,6 +1648,12 @@
       "has_white_wool": "2024-11-20 14:14:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -2243,6 +2279,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-20 14:14:06 +0000"
@@ -2530,6 +2572,12 @@
       "has_sign": "2024-11-20 15:41:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -3083,6 +3131,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-18 22:48:00 +0000"
@@ -3106,6 +3160,12 @@
       "has_white_wool": "2024-11-20 14:14:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 17:18:47 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/hanging_sign_minecraft/dark_oak": {
     "criteria": {

@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-03 01:21:53 +0000"
@@ -53,15 +47,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sentry": {
-    "criteria": {
-      "has_iron": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -89,15 +83,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:12:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:12:47 +0000"
     },
     "done": true
   },
@@ -113,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-03 01:12:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:12:29 +0000"
     },
     "done": true
   },
@@ -191,15 +185,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2024-12-03 01:12:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-03 01:11:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-03 01:12:29 +0000"
     },
     "done": true
   },
@@ -263,15 +257,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-03 01:21:52 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 01:21:52 +0000"
     },
     "done": true
   },
@@ -306,15 +300,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -378,12 +372,6 @@
     },
     "done": false
   },
-  "cfm:recipes/cfm/blue_grill": {
-    "criteria": {
-      "has_iron": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
@@ -393,6 +381,12 @@
   "cfm:recipes/cfm/acacia_crate": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_iron": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -528,15 +522,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -564,15 +558,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-03 01:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -593,12 +587,6 @@
       "has_planks": "2024-12-03 01:12:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
@@ -636,27 +624,21 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
-    "criteria": {
-      "has_bottom": "2024-12-03 01:12:47 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-03 01:11:16 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-03 01:12:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-03 01:21:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
     },
     "done": false
   },
@@ -762,12 +744,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
@@ -786,15 +762,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv2": {
-    "criteria": {
-      "has_iron": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_acacia_park_bench": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
@@ -822,15 +798,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-03 01:21:53 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-03 01:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 01:21:53 +0000"
     },
     "done": true
   },
@@ -840,27 +816,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_grill": {
-    "criteria": {
-      "has_iron": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_acacia_crate": {
     "criteria": {
       "has_planks": "2024-12-03 01:12:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
+  "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
-      "has_white_wool": "2024-12-03 01:21:53 +0000"
+      "has_iron": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
   "spartanshields:recipes/spartanshields/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2024-12-03 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 01:21:53 +0000"
     },
     "done": true
   },
@@ -882,12 +858,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-03 01:21:53 +0000"
@@ -906,12 +876,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-03 01:12:01 +0000"
@@ -924,13 +888,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv3": {
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2024-12-03 01:13:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv5": {
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-12-03 01:13:37 +0000"
     },
@@ -942,21 +906,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2024-12-03 01:13:37 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-03 00:53:41 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2024-12-03 01:12:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-03 01:12:47 +0000"
     },
     "done": true
   },
@@ -1068,6 +1038,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2024-12-03 01:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
@@ -1077,12 +1053,6 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/acacia_blinds": {
-    "criteria": {
-      "has_log": "2024-12-03 01:12:01 +0000"
     },
     "done": true
   },
@@ -1152,12 +1122,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-03 01:12:01 +0000"
@@ -1188,12 +1152,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-03 01:10:35 +0000",
@@ -1201,15 +1159,15 @@
     },
     "done": false
   },
-  "byg:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 01:13:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 01:13:37 +0000"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 01:13:45 +0000"
     },
     "done": true
   },
@@ -1261,15 +1219,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-03 01:12:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-12-03 01:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:12:47 +0000"
     },
     "done": true
   },
@@ -1315,12 +1273,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-03 01:13:37 +0000"
@@ -1351,12 +1303,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 01:13:37 +0000"
@@ -1378,13 +1324,6 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-03 01:21:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-03 01:21:57 +0000",
-      "log_spam_fixer": "2024-12-03 01:20:53 +0000"
     },
     "done": true
   },
@@ -1466,15 +1405,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-03 01:21:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-03 01:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 01:21:52 +0000"
     },
     "done": true
   },
