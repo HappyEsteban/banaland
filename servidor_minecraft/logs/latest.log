@@ -783,3 +783,193 @@ The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFix
 [04Dec2024 01:09:23.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6130ms or 122 ticks behind
 [04Dec2024 01:09:29.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban has reached the goal [Strong or Careful]
 [04Dec2024 01:09:29.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban was slain by Cave Centipede
+[04Dec2024 01:09:35.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban has reached the goal [Here They Come]
+[04Dec2024 01:09:54.774] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3572f48
+[04Dec2024 01:09:54.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JuanjorMC[/127.225.198.47:53979] logged in with entity id 21729 at (-94.86196693017054, 70.87101314877873, 152.5843951058817)
+[04Dec2024 01:09:54.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JuanjorMC joined the game
+[04Dec2024 01:09:54.844] [Server thread/INFO] [Waila/]: Syncing config to JuanjorMC (e260afce-58d4-3499-9f4d-59ed8f3a41e9)
+[04Dec2024 01:09:57.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19313ms or 386 ticks behind
+[04Dec2024 01:09:59.339] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JuanjorMC (18)
+[04Dec2024 01:09:59.340] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JuanjorMC
+[04Dec2024 01:10:16.196] [Worker-Main-24/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Dec2024 01:10:30.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NotRememeredUser has made the advancement [Stone Age]
+[04Dec2024 01:10:31.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> server de mierda ojala lo borren
+[04Dec2024 01:10:31.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18570ms or 371 ticks behind
+[04Dec2024 01:10:38.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> . y lo banean
+[04Dec2024 01:10:41.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:41.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:42.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:43.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> ez
+[04Dec2024 01:10:43.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:44.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:45.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:45.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:46.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:46.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:46.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .
+[04Dec2024 01:10:47.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> .t
+[04Dec2024 01:10:50.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zelixIV has made the advancement [Diamonds!]
+[04Dec2024 01:10:51.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zelixIV has made the advancement [Ice Bucket Challenge]
+[04Dec2024 01:10:55.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zelixIV has made the advancement [Isn't It Iron Pick]
+[04Dec2024 01:10:57.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zelixIV has made the advancement [Suit Up]
+[04Dec2024 01:11:03.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16921ms or 338 ticks behind
+[04Dec2024 01:11:29.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NotRememeredUser has made the advancement [Getting an Upgrade]
+[04Dec2024 01:11:34.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16560ms or 331 ticks behind
+[04Dec2024 01:11:44.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JuanjorMC: Set own game mode to Survival Mode]
+[04Dec2024 01:12:01.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11611ms or 232 ticks behind
+[04Dec2024 01:12:06.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> bajense los chunks carevergas
+[04Dec2024 01:12:13.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> eche esa monda q
+[04Dec2024 01:12:20.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD is bleeding. MonisXD was slain by Elephant
+[04Dec2024 01:12:20.323] [Server thread/WARN] [tombstone/]: The death event of the player MonisXD was canceled by another mod
+[04Dec2024 01:12:20.397] [Server thread/INFO] [tombstone/]: The player MonisXD has successfully been saved
+[04Dec2024 01:12:23.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> yo vere si juego a 32 chunks
+[04Dec2024 01:12:23.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> callate soplamonda
+[04Dec2024 01:12:27.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10832ms or 216 ticks behind
+[04Dec2024 01:12:30.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> alzadito?
+[04Dec2024 01:12:34.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> toca banearlo por alzado
+[04Dec2024 01:12:38.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine_dita46 lost connection: Kicked by an operator
+[04Dec2024 01:12:38.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 left the game
+[04Dec2024 01:12:38.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pine_dita46
+[04Dec2024 01:12:38.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NotRememeredUser: Kicked Pine_dita46: Kicked by an operator]
+[04Dec2024 01:12:38.179] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 01:12:48.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> va tocar hacer /clear
+[04Dec2024 01:12:51.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> cada dia mas me nerfean
+[04Dec2024 01:12:53.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11130ms or 222 ticks behind
+[04Dec2024 01:12:54.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Disconnected
+[04Dec2024 01:12:54.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
+[04Dec2024 01:12:54.595] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
+[04Dec2024 01:12:58.650] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37197ba9
+[04Dec2024 01:12:58.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pine_dita46[/127.77.234.57:46157] logged in with entity id 23637 at (-190.69999998807907, -48.0, 483.6831659725488)
+[04Dec2024 01:12:58.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 joined the game
+[04Dec2024 01:12:58.732] [Server thread/INFO] [Waila/]: Syncing config to Pine_dita46 (266823e8-bf22-3122-942a-f8c04bd92118)
+[04Dec2024 01:12:58.868] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pine_dita46 (18)
+[04Dec2024 01:12:58.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pine_dita46
+[04Dec2024 01:13:09.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD was slain by Elephant
+[04Dec2024 01:13:09.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MonisXD has made the advancement [Your First Grave]
+[04Dec2024 01:13:10.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: coldsd lost connection: Kicked by an operator
+[04Dec2024 01:13:10.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coldsd left the game
+[04Dec2024 01:13:10.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client coldsd
+[04Dec2024 01:13:10.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JuanjorMC: Kicked coldsd: Kicked by an operator]
+[04Dec2024 01:13:10.305] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 01:13:14.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 101.85728454589844) to HIGH (avg. 53.483787536621094)
+[04Dec2024 01:13:15.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> ?
+[04Dec2024 01:13:17.925] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2be17b06[id=<null>,name=coldsd,properties={},legacy=false] (/127.3.53.236:45847) lost connection: Disconnected
+[04Dec2024 01:13:18.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10467ms or 209 ticks behind
+[04Dec2024 01:13:20.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> q le paso
+[04Dec2024 01:13:24.520] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e2d031d
+[04Dec2024 01:13:24.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: coldsd[/127.3.53.236:54781] logged in with entity id 23981 at (216.05615195703913, -17.0, 78.67978330740314)
+[04Dec2024 01:13:24.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coldsd joined the game
+[04Dec2024 01:13:24.595] [Server thread/INFO] [Waila/]: Syncing config to coldsd (75ad31c0-0b80-3993-b271-b8af4cdd9b92)
+[04Dec2024 01:13:24.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of coldsd (18)
+[04Dec2024 01:13:24.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to coldsd
+[04Dec2024 01:13:26.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> se lo follaron
+[04Dec2024 01:13:26.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.483787536621094) to VERY_HIGH (avg. 100.57079315185547)
+[04Dec2024 01:13:33.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> eche q me kickea crvg
+[04Dec2024 01:13:43.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9528ms or 190 ticks behind
+[04Dec2024 01:14:01.245] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42864612
+[04Dec2024 01:14:01.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:43441] logged in with entity id 24467 at (173.69999998807907, -24.0, 339.30000001192093)
+[04Dec2024 01:14:01.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
+[04Dec2024 01:14:01.351] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
+[04Dec2024 01:14:01.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
+[04Dec2024 01:14:01.777] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
+[04Dec2024 01:14:03.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
+[04Dec2024 01:14:11.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Kicked by an operator
+[04Dec2024 01:14:11.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
+[04Dec2024 01:14:11.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
+[04Dec2024 01:14:11.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NotRememeredUser: Kicked HappyEsteban: Kicked by an operator]
+[04Dec2024 01:14:11.153] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 01:14:17.061] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64482671
+[04Dec2024 01:14:17.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:54441] logged in with entity id 24826 at (173.69999998807907, -24.0, 339.30000001192093)
+[04Dec2024 01:14:17.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
+[04Dec2024 01:14:17.226] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
+[04Dec2024 01:14:17.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
+[04Dec2024 01:14:17.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
+[04Dec2024 01:14:24.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> oe esteban
+[04Dec2024 01:14:26.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Not Today, Thank You]
+[04Dec2024 01:14:29.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> juanjor te kieko
+[04Dec2024 01:14:29.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HappyEsteban> QUE PASA?
+[04Dec2024 01:14:30.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11848ms or 236 ticks behind
+[04Dec2024 01:14:42.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> oe estebna
+[04Dec2024 01:14:50.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Knowledge of Death]
+[04Dec2024 01:14:50.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Ashes 'n Bones]
+[04Dec2024 01:15:01.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16625ms or 332 ticks behind
+[04Dec2024 01:15:12.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zelixIV has made the advancement [Monster Hunter]
+[04Dec2024 01:15:18.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> oe esteban
+[04Dec2024 01:15:19.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> maricones
+[04Dec2024 01:15:24.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> q
+[04Dec2024 01:15:24.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7829ms or 156 ticks behind
+[04Dec2024 01:15:26.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> bajensen los chuks porfa hasta 6
+[04Dec2024 01:15:29.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> BAJANSEN LOS PIROBOS CHUNKS
+[04Dec2024 01:15:31.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> 6 q
+[04Dec2024 01:15:33.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RcH_1> CUAL PORFA
+[04Dec2024 01:15:33.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> si no esta mierda ira mal
+[04Dec2024 01:15:34.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> mnda
+[04Dec2024 01:15:43.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> eche estoy jugando a 120
+[04Dec2024 01:15:43.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> lo tengo en 1 chink
+[04Dec2024 01:15:44.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
+[04Dec2024 01:15:48.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> pero
+[04Dec2024 01:15:52.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HappyEsteban> Nott
+[04Dec2024 01:15:52.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> mucho peor
+[04Dec2024 01:15:56.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> esteban
+[04Dec2024 01:15:57.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> es entre 4 y 6
+[04Dec2024 01:16:02.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> que pasa estebam
+[04Dec2024 01:16:06.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6941ms or 138 ticks behind
+[04Dec2024 01:16:07.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <HappyEsteban> juan le manda a decir que servis pa mrd
+[04Dec2024 01:16:16.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JuanjorMC> esteban marica
+[04Dec2024 01:16:17.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> me importa un culo
+[04Dec2024 01:16:19.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> me los pego y no me limpio
+[04Dec2024 01:16:21.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> yo le pase la ip
+[04Dec2024 01:16:28.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> si no le carga
+[04Dec2024 01:16:29.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7691ms or 153 ticks behind
+[04Dec2024 01:16:30.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> yonose
+[04Dec2024 01:16:52.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8410ms or 168 ticks behind
+[04Dec2024 01:16:54.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Disconnected
+[04Dec2024 01:16:54.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
+[04Dec2024 01:16:54.562] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
+[04Dec2024 01:17:08.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RcH_1 lost connection: Disconnected
+[04Dec2024 01:17:08.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RcH_1 left the game
+[04Dec2024 01:17:08.844] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RcH_1
+[04Dec2024 01:17:09.636] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 72.82459259033203) to HIGH (avg. 53.476783752441406)
+[04Dec2024 01:17:12.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> . y me crafteo el full diamante
+[04Dec2024 01:17:14.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6831ms or 136 ticks behind
+[04Dec2024 01:17:15.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> .
+[04Dec2024 01:17:15.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> .
+[04Dec2024 01:17:21.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.476783752441406) to VERY_HIGH (avg. 91.52082824707031)
+[04Dec2024 01:17:25.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NotRememeredUser> va a tocar hostearlo de mi pc
+[04Dec2024 01:17:29.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRememeredUser lost connection: Disconnected
+[04Dec2024 01:17:29.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NotRememeredUser left the game
+[04Dec2024 01:17:29.586] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NotRememeredUser
+[04Dec2024 01:17:35.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zelixIV> SLEEP BEACHES
+[04Dec2024 01:17:35.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6518ms or 130 ticks behind
+[04Dec2024 01:17:40.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> beache su madr
+[04Dec2024 01:17:44.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> cm asi
+[04Dec2024 01:17:45.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JuanjorMC: Set the time to 1000]
+[04Dec2024 01:17:47.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> ami no me trate
+[04Dec2024 01:17:48.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Pine_dita46> hajajhsdh
+[04Dec2024 01:17:49.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> egh
+[04Dec2024 01:17:52.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 79.13597869873047) to HIGH (avg. 50.70203399658203)
+[04Dec2024 01:17:56.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <coldsd> españis
+[04Dec2024 01:17:57.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
+[04Dec2024 01:18:13.194] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.49177551269531) to VERY_HIGH (avg. 83.86249542236328)
+[04Dec2024 01:18:17.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4672ms or 93 ticks behind
+[04Dec2024 01:18:24.987] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 83.86249542236328) to HIGH (avg. 52.11980056762695)
+[04Dec2024 01:18:29.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@126ae2e0
+[04Dec2024 01:18:29.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HappyEsteban[/127.88.204.89:57993] logged in with entity id 27489 at (116.30000001192093, -21.0, 365.69999998807907)
+[04Dec2024 01:18:29.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban joined the game
+[04Dec2024 01:18:30.017] [Server thread/INFO] [Waila/]: Syncing config to HappyEsteban (7debb69f-052f-3413-b2dc-246fd90ac36c)
+[04Dec2024 01:18:30.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of HappyEsteban (18)
+[04Dec2024 01:18:30.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to HappyEsteban
+[04Dec2024 01:18:37.931] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.11980056762695) to VERY_HIGH (avg. 78.93090057373047)
+[04Dec2024 01:18:41.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9240ms or 184 ticks behind
+[04Dec2024 01:18:54.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [A Strange Grave Dust]
+[04Dec2024 01:18:56.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HappyEsteban lost connection: Disconnected
+[04Dec2024 01:18:56.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: HappyEsteban left the game
+[04Dec2024 01:18:56.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client HappyEsteban
+[04Dec2024 01:18:57.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 78.93090057373047) to NORMAL (avg. 44.46913146972656)
+[04Dec2024 01:19:01.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[04Dec2024 01:19:07.225] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.46913146972656) to VERY_HIGH (avg. 116.04763793945312)
+[04Dec2024 01:19:20.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4608ms or 92 ticks behind
+[04Dec2024 01:19:24.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pine_dita46 has made the advancement [Barrel Booty]
+[04Dec2024 01:19:38.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[04Dec2024 01:19:43.693] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 70.97761535644531) to HIGH (avg. 54.55359649658203)
+[04Dec2024 01:19:52.407] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.55359649658203) to VERY_HIGH (avg. 174.941650390625)
