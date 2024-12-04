@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-04 00:50:30 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-04 00:39:45 +0000"
@@ -513,6 +519,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-04 00:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-04 00:48:42 +0000"
     },
     "done": true
   },
@@ -768,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-04 00:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-04 00:34:37 +0000"
@@ -903,7 +921,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-04 00:48:15 +0000",
-      "opened_chest": "2024-12-04 00:39:45 +0000"
+      "opened_chest": "2024-12-04 00:39:45 +0000",
+      "opened_cart": "2024-12-04 00:50:30 +0000"
     },
     "done": false
   },
@@ -1441,6 +1460,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-04 00:48:53 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2024-12-04 00:48:18 +0000"
@@ -1531,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-04 00:48:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-04 00:35:02 +0000"
@@ -1555,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-04 00:48:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2024-12-04 00:34:04 +0000"
@@ -1564,6 +1601,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-04 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-04 00:50:12 +0000"
     },
     "done": true
   },
@@ -1787,6 +1830,7 @@
     "criteria": {
       "minecraft:river": "2024-12-04 00:39:23 +0000",
       "minecraft:stony_shore": "2024-12-04 00:43:08 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 00:49:24 +0000",
       "minecraft:savanna": "2024-12-04 00:33:14 +0000",
       "minecraft:plains": "2024-12-04 00:42:08 +0000"
     },

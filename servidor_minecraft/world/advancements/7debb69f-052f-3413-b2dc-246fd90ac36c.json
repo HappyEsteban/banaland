@@ -884,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 00:52:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-11-20 14:45:41 +0000"
@@ -1328,6 +1334,7 @@
       "minecraft:beach": "2024-11-18 23:07:21 +0000",
       "minecraft:lukewarm_ocean": "2024-11-19 00:58:45 +0000",
       "minecraft:river": "2024-11-18 22:50:56 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 00:50:02 +0000",
       "minecraft:savanna": "2024-11-18 22:46:10 +0000"
     },
     "done": false
@@ -1419,6 +1426,12 @@
   "cfm:recipes/cfm/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-11-19 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 00:52:10 +0000"
     },
     "done": true
   },
@@ -1677,6 +1690,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-18 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-04 00:52:10 +0000"
     },
     "done": true
   },
